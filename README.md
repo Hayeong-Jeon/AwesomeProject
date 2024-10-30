@@ -1,7 +1,7 @@
 # skidch
 ### : 스마트폰을 사용하는 어린이들의 눈 보호를 위한 어플리케이션
 <div align="center">
-  <img src="assets/image/logo.png" height="300" width="50%">
+  <img src="assets/images/logo.png" height="300" width="50%">
 </div>
 
 <br/><br/>
