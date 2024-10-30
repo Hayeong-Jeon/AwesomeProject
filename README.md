@@ -43,6 +43,8 @@ _storage.write 메서드를 사용하여 Flutter Secure Storage에 비밀번호 
 
 
 <h2 id="기술-스택">기술 스택</h2>
-- **Frontend**: Flutter(Dart), HTML
-- **Backend**: Java, C++
-- **Tools**: CMake
+<ul>
+    <li><strong>Frontend</strong>: Flutter(Dart), HTML</li>
+    <li><strong>Backend</strong>: Java, C++</li>
+    <li><strong>Tools</strong>: CMake</li>
+</ul>
