@@ -21,7 +21,7 @@
 <hr>
 <h2 id="기능설명">기능 설명</h2>
 
-<h3 id="비밀번호-설정">비밀번호 설정</h3>
+<h3 id="비밀번호-설정">🤐비밀번호 설정🤐</h3>
 _storage.write 메서드를 사용하여 Flutter Secure Storage에 비밀번호 저장. StatefulWidget으로 구현하여 사용자의 입력상태를 관리하고 GlobalKey<FormState>를 사용하여 폼의 상태를 추적하며 입력값의 유효성을 검사하도록 구현.
 
 <br/><br/>
@@ -32,7 +32,7 @@ _storage.write 메서드를 사용하여 Flutter Secure Storage에 비밀번호 
 
 <br/><br/>
 <hr>
-<h3 id="시력보호-모드">😎시력 보호 모드😎</h3>
+<h3 id="시력보호-모드">🦉시력 보호 모드🌙</h3>
 안드로이드의 lightSensor 활용, flutter의 MethodChannel을 통해 애플리케이션과 네이티브 코드간의 원활한 통신을 지원했고 ForegroundService와 BackgroundService 이용하여 백그라운드에서도 동작이 가능하도록 설정하였다. 주변이 3초이상 어두워지게되면 어두운곳으로 이동한 것으로 판단해 화면이 잠기게 되며, 밝은곳으로 이동할 시 잠금이 풀리는 로직 구현
 
 <br/><br/>
