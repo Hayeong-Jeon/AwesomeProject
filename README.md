@@ -66,11 +66,11 @@ _storage.write 메서드를 사용하여 Flutter Secure Storage에 비밀번호 
 <hr>
 
 <h2 id="version">버전 정보</h2>
-- **Android Studio**: 2022.3.1.22 (Giraffe Patch 4)
-- **Flutter SDK**: >=3.1.5 <4.0.0
-- **Flutter Secure Storage**: ^5.0.2
-- **Java**: Java 8
-- **Android Gradle Plugin**: 7.4.2
+- **Android Studio**: `2022.3.1.22 (Giraffe Patch 4)`
+- **Flutter SDK**: `>=3.1.5 <4.0.0`
+- **Flutter Secure Storage**: `^5.0.2`
+- **Java**: `Java 8`
+- **Android Gradle Plugin**: `7.4.2`
   
 <br/>
 <hr>
