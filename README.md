@@ -77,7 +77,7 @@ _storage.write 메서드를 사용하여 Flutter Secure Storage에 비밀번호 
 <hr>
 <h2 id="team">프로젝트 실행방법</h2>
 
-### First. Install Android Studio
+- ### First. Install Android Studio
 ### Second. Open Project
 ### Third. pair using Wi-Fi and QR scan
 ### App run
