@@ -12,6 +12,7 @@
             <li><a href="#비밀번호-설정">1.1 비밀번호 설정</a></li>
             <li><a href="#시력보호-모드">1.2 시력 보호 모드</a></li>
             <li><a href="#보행-시-사용-금지모드">1.3 보행 시 사용 금지 모드</a></li>
+            <li><a href="#team"> 팀 정보 (Team Information)</a></li>
         </ul>
     </li>
     <li><a href="#기술-스택">2. 기술 스택</a></li>
@@ -61,3 +62,12 @@ _storage.write 메서드를 사용하여 Flutter Secure Storage에 비밀번호 
     <li><strong>Tools</strong>: CMake</li>
 </ul>
 <hr>
+<h1 id="team"> :family_man_man_girl_boy: 4. 팀 정보 (Team Information) </h1>
+<br/>
+
+|  팀원  |     역할     |         Email         |
+| :----: | :----------: | :-------------------: |
+| 김보현 |  Full Stack  |  qhgus62@naver.com  |
+| 전하영 |  Full Stack  |  wjsgkdd@gmail.com  |
+| 조혜령 |      FE     |  sns220@naver.com  |
+
