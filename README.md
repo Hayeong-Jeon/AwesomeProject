@@ -15,6 +15,7 @@
         </ul>
     </li>
     <li><a href="#기술-스택">2. 기술 스택</a></li>
+    <li><a href="#version">3. 버전 정보</a></li>
     <li><a href="#team">4. 팀 정보 (Team Information)</a></li>
 </ul>
 
@@ -61,8 +62,29 @@ _storage.write 메서드를 사용하여 Flutter Secure Storage에 비밀번호 
     <li><strong>Backend</strong>: Java, C++</li>
     <li><strong>Tools</strong>: CMake</li>
 </ul>
+<br/>
 <hr>
-<h1 id="team"> :family_man_man_girl_boy: 4. 팀 정보 (Team Information) </h1>
+
+<h2 id="version">버전 정보</h2>
+- **Android Studio**: 2022.3.1.22 (Giraffe Patch 4)
+- **Flutter SDK**: >=3.1.5 <4.0.0
+- **Flutter Secure Storage**: ^5.0.2
+- **Java**: Java 8
+- **Android Gradle Plugin**: 7.4.2
+  
+<br/>
+<hr>
+<h2 id="team">프로젝트 실행방법</h2>
+### First. Install Android Studio
+### Second. Open Project
+### Third. pair using Wi-Fi and QR scan
+### App run
+
+
+<br/>
+
+<hr>
+<h1 id="team"> :family_man_man_girl_boy:팀 정보 (Team Information) </h1>
 <br/>
 
 |  팀원  |     역할     |         Email         |
