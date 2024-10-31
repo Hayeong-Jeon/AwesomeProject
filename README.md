@@ -50,7 +50,7 @@
 <h1>skidch</h1>
 <h3>스마트폰을 사용하는 어린이들의 눈 보호를 위한 어플리케이션</h3>
 <div class="center">
-  <img src="assets/images/logo.PNG" height="450" width="30%">
+    <img src="assets/images/logo.PNG" height="450" width="30%">
 </div>
 
 <h2>목차</h2>
